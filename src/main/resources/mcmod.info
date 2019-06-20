@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sbmwoodlogstove",
+  "name": "[SBM] Wood Log Stove",
+  "description": "A furnace type block which is only efficient with food.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["bl4ckscor3"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

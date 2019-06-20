@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "burning=false,facing=north": { "model": "sbmwoodlogstove:stove" },
+        "burning=false,facing=south": { "model": "sbmwoodlogstove:stove", "y": 180 },
+        "burning=false,facing=west":  { "model": "sbmwoodlogstove:stove", "y": 270 },
+        "burning=false,facing=east":  { "model": "sbmwoodlogstove:stove", "y": 90 },
+        "burning=true,facing=north": { "model": "sbmwoodlogstove:stove" },
+        "burning=true,facing=south": { "model": "sbmwoodlogstove:stove", "y": 180 },
+        "burning=true,facing=west":  { "model": "sbmwoodlogstove:stove", "y": 270 },
+        "burning=true,facing=east":  { "model": "sbmwoodlogstove:stove", "y": 90 }
+    }
+}
